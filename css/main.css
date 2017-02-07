@@ -79,3 +79,11 @@ img
   width: 160px;
   height: 160px;
 }
+
+.chocolat-open {
+    background: black;
+}
+
+.chocolat-overlay {
+    background: black;
+}
